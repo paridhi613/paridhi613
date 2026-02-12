@@ -30,6 +30,7 @@
 ---
 
 ## 📫 Connect With Me  
-- GitHub: https://github.com/paridhi613  
+- GitHub: https://github.com/paridhi613
+- Gmail: kalyaneparidhi24@gmail.com
 
 
