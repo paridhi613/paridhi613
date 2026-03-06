@@ -7,12 +7,21 @@
 
 ---
 
-## 🛠 Skills  
+## 🛠 Tech Stack
+
+### Languages
 - HTML, CSS  
 - JavaScript (Learning)  
 - C++ (DSA)  
-- Git & GitHub
+
+### Database
 - MySQL
+- MongoDB
+- Firebase
+
+### Technologies
+- Git
+- GitHub
 
 ---
 
