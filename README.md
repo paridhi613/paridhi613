@@ -11,7 +11,8 @@
 - HTML, CSS  
 - JavaScript (Learning)  
 - C++ (DSA)  
-- Git & GitHub  
+- Git & GitHub
+- MySQL
 
 ---
 
