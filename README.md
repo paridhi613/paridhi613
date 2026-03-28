@@ -10,7 +10,8 @@
 ## 🛠 Tech Stack
 
 ### Languages
-- HTML, CSS  
+- HTML
+- CSS  
 - JavaScript (Learning)  
 - C++ (DSA)  
 
@@ -22,6 +23,7 @@
 ### Technologies
 - Git
 - GitHub
+- VS Code
 
 ---
 
