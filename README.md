@@ -13,7 +13,8 @@
 - HTML
 - CSS  
 - JavaScript (Learning)  
-- C++ (DSA)  
+- C++ (DSA)
+- Python (Learning)
 
 ### Database
 - MySQL
@@ -24,6 +25,8 @@
 - Git
 - GitHub
 - VS Code
+- Anaconda
+- Jupyter Notebook
 
 ---
 
